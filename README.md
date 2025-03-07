@@ -1,6 +1,7 @@
-# Webpack 5 бандл
+# Webpack 5
+бандл для проектов 
 
-* Использует `webpack-merge`, позволяет создавать любые сборки через систему конфигов. 
+* Использует `webpack-merge`, позволяет создавать сборки через систему конфигов. 
 * Все `plugins` и `loaders` вынесены и описаны для переиспользования
 
 ## Поддерживает
@@ -13,11 +14,11 @@
 * Fonts loader
 * Images loader
 * Video loader
-* есть SWIPER
+* SWIPER
 
 ## Старт
 
-```shell
+```
     npm i
     npm run build
     npm run build:dev
